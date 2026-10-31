@@ -21,11 +21,11 @@
 |  **Exp-1** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%201.pdf)                                                                                   |  9/10 |   O   |     ✅ Checked    |
 |  **Exp-2** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%202.pdf)                                                                                   |  9/10 |   O   |     ✅ Checked    |
 |  **Exp-3** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%203.pdf) · [ER Diagram](./Aarya%20Tanwade%20University_Research_Management_ER_Diagram.png) | 10/10 |   O   |     ✅ Checked    |
-|  **Exp-4** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%204.pdf)                                                                                   |   -   |   -   | 🟡 To be Checked |
-|  **Exp-5** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%205.pdf)                                                                                   |   -   |   -   | 🟡 To be Checked |
-|  **Exp-6** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%206.pdf)                                                                                   |   -   |   -   | 🟡 To be Checked |
-|  **Exp-7** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%207.pdf)                                                                                   |   -   |   -   | 🟡 To be Checked |
-|  **Exp-8** | `Aarya Tanwade DBMS Experiment 8.pdf` (upload pending)                                                                                   |   -   |   -   | 🟡 To be Checked |
+|  **Exp-4** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%204.pdf)                                                                                   | 10/10 |   O   |     ✅ Checked    |
+|  **Exp-5** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%205.pdf)                                                                                   | 10/10 |   O   |     ✅ Checked    |
+|  **Exp-6** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%206.pdf)                                                                                   | 10/10 |   O   |     ✅ Checked    |
+|  **Exp-7** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%207.pdf)                                                                                   | 10/10 |   O   |     ✅ Checked    |
+|  **Exp-8** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%208.pdf)                                                                                   |   -   |   -   | 🟡 To be Checked |
 
 > **Grade:** O = Outstanding
 
